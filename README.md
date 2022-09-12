@@ -30,6 +30,11 @@ Voltei aos meus estudo em desenvolvimento web para <strong>front-end</strong> no
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+## Projeto atual
+<div style="display: flex">
+  Refatorando o código do projeto Web Scrapping
+</div>
+
 ## As vezes estudando por prazer
 <div style="display: flex">
   Assembly para o 6502 (quando o tempo permite)
