@@ -38,7 +38,7 @@ Voltei aos meus estudos em <strong>desenvolvimento web para front-end</strong> n
 
 ## Projeto atual
 <div style="display: flex">
-  Criando uma primeira versão de um jogo Campo Minado (Minesweeper) totalmente em HTML, CSS e Javascript.
+  Criando uma primeira versão de um jogo Campo Minado (Minesweeper) totalmente em HTML, CSS e Javascript. (ainda não está no github)
 </div>
 
 ## As vezes estudando por prazer
