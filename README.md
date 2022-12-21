@@ -20,10 +20,12 @@ Voltei aos meus estudos em <strong>desenvolvimento web para front-end</strong> n
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
-## Atualmente aprofundando
+## Atualmente aprofundando / aprendendo
 <div style="display: flex">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img alt="Mysql" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 ## Na fila de estudos
@@ -38,7 +40,7 @@ Voltei aos meus estudos em <strong>desenvolvimento web para front-end</strong> n
 
 ## Projeto atual
 <div style="display: flex">
-  Criando uma primeira versão de um jogo Campo Minado (Minesweeper) totalmente em HTML, CSS e Javascript. (ainda não está no github)
+  Criando uma primeira versão de um jogo Campo Minado (Minesweeper) totalmente em HTML, CSS e Javascript.
 </div>
 
 ## As vezes estudando por prazer
